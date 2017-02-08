@@ -1,2 +1,2 @@
 # CompetencyProgramTraining
-# System to store to automate the competency training program
+# System to automate the competency training program
